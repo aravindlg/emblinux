@@ -1,0 +1,2 @@
+# emblinux
+for emb development
